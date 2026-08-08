@@ -1,4 +1,5 @@
-# Hey, I'm Joseph 👋
+<img width="1316" height="470" alt="Screenshot 2026-08-08 001312" src="https://github.com/user-attachments/assets/6f7cde04-6ee0-4201-a5ad-891031cd205f" />
+
 
 🎮 Game developer • 💻 Programmer • 🎨 UI & systems
 
