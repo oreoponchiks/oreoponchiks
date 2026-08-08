@@ -12,7 +12,7 @@ I build games, experiment with different technologies, and spend way too much ti
 - ⚙️ Performance optimization
 - 🎨 Custom interfaces and animations
 - 🔊 Game audio & sound design
-- 🧪 Experimenting with new engines and technologies
+- 🧪 Experimenting with new/custom engines and technologies
 
 ## 🛠️ Technologies
 
@@ -29,13 +29,6 @@ I build games, experiment with different technologies, and spend way too much ti
 - UI/UX design
 - Optimization
 - Sound design
-- Web development
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📌 Projects
 
