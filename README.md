@@ -22,7 +22,6 @@ I build gameplay systems and tools for Roblox experiences using **Luau**. I enjo
 - 📚 Currently learning: **Advanced OOP in Luau, ECS patterns, and DataStore optimization**
 - 🤝 Open to: **commissions, collabs, and team projects**
 - 💬 Discord: **x60mx**
-- 🎯 Fun fact: **[something fun about you]**
 
 ---
 
