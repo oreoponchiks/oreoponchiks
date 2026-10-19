@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm YourName
+# 👋 Hello I'm Slider
 
 ### Roblox Scripter • Luau Developer • Game Systems Builder
 
@@ -18,7 +18,7 @@
 
 I build gameplay systems and tools for Roblox experiences using **Luau**. I enjoy clean, modular code, secure client-server architecture, and making games that feel smooth to play.
 
-- 🔨 Currently working on: **[your current project]**
+- 🔨 Currently working on: **Scourge of Viltrum**
 - 📚 Currently learning: **Advanced OOP in Luau, ECS patterns, and DataStore optimization**
 - 🤝 Open to: **commissions, collabs, and team projects**
 - 💬 Discord: **YourDiscord#0000**
@@ -54,7 +54,7 @@ function Developer:Build(idea)
 	return true
 end
 
-local me = Developer.new("YourName")
+local me = Developer.new("Slider")
 me:Build("your next big game")
 ```
 
@@ -77,19 +77,9 @@ me:Build("your next big game")
 
 ## 🚀 Featured Projects
 
-### 🔹 Project Name One
-Short description of what it does and what you scripted (e.g. full combat system with hitboxes, cooldowns, and server validation).
+### 🔹 Scourge of Viltrum
+Short description: full combat system with hitboxes, cooldowns, and server validation).
 **Tech:** Luau, RemoteEvents, Raycasting
-
-### 🔹 Project Name Two
-Short description (e.g. data-persistent inventory and shop system with trading).
-**Tech:** DataStores, ProfileService, OOP
-
-### 🔹 Project Name Three
-Short description (e.g. custom plugin that speeds up map building).
-**Tech:** Plugin API, Luau, DockWidgets
-
-> 📌 Pin your best repos to show them here!
 
 ---
 
@@ -119,8 +109,6 @@ Short description (e.g. custom plugin that speeds up map building).
 ```
 
 ---
-
-## 📫 Let's Connect
 
 <div align="center">
 
