@@ -21,7 +21,7 @@ I build gameplay systems and tools for Roblox experiences using **Luau**. I enjo
 - 🔨 Currently working on: **Scourge of Viltrum**
 - 📚 Currently learning: **Advanced OOP in Luau, ECS patterns, and DataStore optimization**
 - 🤝 Open to: **commissions, collabs, and team projects**
-- 💬 Discord: **YourDiscord#0000**
+- 💬 Discord: **x60mx**
 - 🎯 Fun fact: **[something fun about you]**
 
 ---
@@ -80,43 +80,3 @@ me:Build("your next big game")
 ### 🔹 Scourge of Viltrum
 Short description: full combat system with hitboxes, cooldowns, and server validation).
 **Tech:** Luau, RemoteEvents, Raycasting
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🧠 Dev Philosophy
-
-```lua
---!strict
--- My rules for writing Luau:
--- 1. Never trust the client. Validate everything on the server.
--- 2. Keep modules small and single-purpose.
--- 3. Disconnect your connections and clean up after yourself.
--- 4. Readable code beats clever code.
--- 5. Profile before you optimize.
-```
-
----
-
-<div align="center">
-
-[![Roblox](https://img.shields.io/badge/Roblox-Profile-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/YOUR_ID/profile)
-[![Discord](https://img.shields.io/badge/Discord-YourName-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![DevForum](https://img.shields.io/badge/DevForum-Profile-393B3D?style=for-the-badge&logo=roblox&logoColor=white)](https://devforum.roblox.com/u/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-
-*Open for commissions — send me a message!*
-
-</div>
